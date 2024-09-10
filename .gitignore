@@ -1,0 +1,20 @@
+# Ignorar archivos y directorios generados por VS Code
+.vscode/
+
+# Ignorar archivos y directorios generados por Composer
+vendor/
+composer.lock
+
+# Ignorar archivos de configuración local (si los tienes)
+wp-config.php
+.env
+
+# Ignorar archivos de registro y caché
+*.log
+wp-content/uploads/
+wp-content/cache/
+
+# Ignorar otros archivos temporales o específicos de tu entorno de desarrollo
+node_modules/
+Thumbs.db
+.DS_Store
