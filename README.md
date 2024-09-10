@@ -1,6 +1,5 @@
 # IAPost Automatic
 
-[![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/iapost-automatic.svg?style=flat-square)](https://wordpress.org/plugins/iapost-automatic/)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-2.0.html)
 
 IAPost Automatic es un plugin de WordPress que te permite automatizar la publicación de contenido en tus redes sociales favoritas.
